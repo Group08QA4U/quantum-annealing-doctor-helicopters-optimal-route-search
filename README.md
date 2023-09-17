@@ -3,7 +3,7 @@ Optimal Transport Route Search for Doctor Helicopter by Quantum Annealing
 
 ## Usage
 
-### Run doctor helicopters optimal route search on three methods(ASOR, IP and QA).
+### Run doctor helicopters optimal route search on three methods(Greedy, IP and QA).
 
 
 python doctor_helis.py -m 10 -q 3 -width 20000 -height 20000 -p  8 -a  9 -r 11 -d  8 -l1 65.0 -l2 65.0 -l3 7.375
